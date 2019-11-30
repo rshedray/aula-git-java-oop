@@ -1,2 +1,2 @@
-# aula-git-java-oop
+# aula Git Curso Java OPP - Senac/PI
 Demonstração do Funcionamento do GIT
